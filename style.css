@@ -2,6 +2,13 @@
         background-image: url("img/tlo.png");
     }
 
+    #content {
+        height: 1000px;
+        width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
     #logo {
         color: white;
         text-align: center;
@@ -28,9 +35,9 @@
         text-decoration: none;
     }
     
-    #btn1 {
-        margin-left: 100px;
-        margin-top: 280px;
+    #btn1 { 
+        margin-top: 100px;
+        margin-left: 150px;
         height: 75px;
         width: 300px;
         background-color: gray;
@@ -51,6 +58,9 @@
     }
 
     #btn2 {
+        margin-top: 100px;
+        margin-left: 100px;
+        margin-right: 150px;
         height: 75px;
         width: 300px;
         background-color: gray;
@@ -62,8 +72,6 @@
         transition: 0.6s;
         font-family: 'Open Sans', sans-serif;
         float: left;
-        margin-top: 280px;
-        margin-left: 225px;
     }
 
     #btn2:hover {
@@ -73,6 +81,8 @@
     }
         
     #btn3 {
+        margin-left: 150px;
+        margin-top: 100px;
         height: 75px;
         width: 300px;
         background-color: gray;
@@ -84,8 +94,6 @@
         transition: 0.6s;
         font-family: 'Open Sans', sans-serif;
         float: left;
-        margin-top: 280px;
-        margin-left: 225px;
     }
     
     #btn3:hover {
@@ -95,6 +103,8 @@
     }
 
     #btn4 {
+        margin-left: 100px;
+        margin-top: 100px;
         height: 75px;
         width: 300px;
         background-color: gray;
@@ -106,8 +116,6 @@
         transition: 0.6s;
         font-family: 'Open Sans', sans-serif;
         float: left;
-        margin-top: 80px;
-        margin-left: 100px;
     }
 
     #btn4:hover {
@@ -117,6 +125,8 @@
     }
 
     #btn5 {
+        margin-left: 150px;
+        margin-top: 100px;
         height: 75px;
         width: 300px;
         background-color: gray;
@@ -128,8 +138,6 @@
         transition: 0.6s;
         font-family: 'Open Sans', sans-serif;
         float: left;
-        margin-top: 80px;
-        margin-left: 225px;
     }
 
     #btn5:hover {
@@ -139,6 +147,8 @@
     }
 
     #btn6 {
+        margin-left: 100px;
+        margin-top: 100px;
         height: 75px;
         width: 300px;
         background-color: gray;
@@ -150,12 +160,53 @@
         transition: 0.6s;
         font-family: 'Open Sans', sans-serif;
         float: left;
-        margin-top: 80px;
-        margin-left: 225px;
-        margin-right: 100px;
     }
 
     #btn6:hover {
+        background-color: darkred;
+        color: white;
+        cursor: pointer;
+    }
+
+    #btn7 {
+        margin-left: 150px;
+        margin-top: 100px;
+        height: 75px;
+        width: 300px;
+        background-color: gray;
+        border: 1px solid black;
+        color: black;
+        padding: 16px 32px;
+        text-align: center;
+        font-size: 16px;
+        transition: 0.6s;
+        font-family: 'Open Sans', sans-serif;
+        float: left;
+    }
+
+    #btn7:hover {
+        background-color: darkred;
+        color: white;
+        cursor: pointer;
+    }
+
+    #btn8 {
+        margin-left: 100px;
+        margin-top: 100px;
+        height: 75px;
+        width: 300px;
+        background-color: gray;
+        border: 1px solid black;
+        color: black;
+        padding: 16px 32px;
+        text-align: center;
+        font-size: 16px;
+        transition: 0.6s;
+        font-family: 'Open Sans', sans-serif;
+        float: left;
+    }
+
+    #btn8:hover {
         background-color: darkred;
         color: white;
         cursor: pointer;
@@ -173,7 +224,22 @@
         text-decoration: none;
     }
 
-    #link1:hover {
-        color: darkred;
-        text-decoration: none;
+    #clear {
+        clear: both;
     }
+
+    #footer {
+        height: 30px;
+        width: auto;
+        color: whitesmoke;
+        font-family: 'Open Sans', sans-serif;
+        padding: 20px;
+        text-align: center;
+        border: 1px solid black;
+        margin-top: 30px;
+        background-color: rgb(38, 38, 38);
+    }
+
+   
+
+    
