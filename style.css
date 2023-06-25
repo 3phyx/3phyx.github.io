@@ -36,7 +36,7 @@
     }
     
     #btn1 { 
-        margin-top: 100px;
+        margin-top: 70px;
         margin-left: 150px;
         height: 75px;
         width: 300px;
@@ -49,6 +49,7 @@
         transition: 0.6s;
         font-family: 'Open Sans', sans-serif;
         float: left;
+        border-radius: 20px;
       }
       
     #btn1:hover {
@@ -58,7 +59,7 @@
     }
 
     #btn2 {
-        margin-top: 100px;
+        margin-top: 70px;
         margin-left: 100px;
         margin-right: 150px;
         height: 75px;
@@ -72,6 +73,7 @@
         transition: 0.6s;
         font-family: 'Open Sans', sans-serif;
         float: left;
+        border-radius: 20px;
     }
 
     #btn2:hover {
@@ -94,6 +96,7 @@
         transition: 0.6s;
         font-family: 'Open Sans', sans-serif;
         float: left;
+        border-radius: 20px;
     }
     
     #btn3:hover {
@@ -116,6 +119,7 @@
         transition: 0.6s;
         font-family: 'Open Sans', sans-serif;
         float: left;
+        border-radius: 20px;
     }
 
     #btn4:hover {
@@ -138,6 +142,7 @@
         transition: 0.6s;
         font-family: 'Open Sans', sans-serif;
         float: left;
+        border-radius: 20px;
     }
 
     #btn5:hover {
@@ -160,6 +165,7 @@
         transition: 0.6s;
         font-family: 'Open Sans', sans-serif;
         float: left;
+        border-radius: 20px;
     }
 
     #btn6:hover {
@@ -182,6 +188,7 @@
         transition: 0.6s;
         font-family: 'Open Sans', sans-serif;
         float: left;
+        border-radius: 20px;
     }
 
     #btn7:hover {
@@ -204,6 +211,7 @@
         transition: 0.6s;
         font-family: 'Open Sans', sans-serif;
         float: left;
+        border-radius: 20px;
     }
 
     #btn8:hover {
@@ -236,8 +244,9 @@
         padding: 20px;
         text-align: center;
         border: 1px solid black;
-        margin-top: 30px;
+        margin-top: 40px;
         background-color: rgb(38, 38, 38);
+        border-radius: 25px;
     }
 
    
